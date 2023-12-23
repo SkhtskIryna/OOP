@@ -1,0 +1,684 @@
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\WinBG\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\IrA\Desktop\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Рабочий стол\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\IrA\Desktop\Новая папка (2)\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\IrA\Desktop\Новая папка (3)\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\testhost.exe
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\testhost.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Nest.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\Tavis.UriTemplates.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\IrA\Desktop\ООП\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll

@@ -1,0 +1,114 @@
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\WinBG\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Desktop\WinBG\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Desktop\WinBG\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Desktop\WinBG\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\WinBG\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Desktop\WinBG\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Desktop\ООП\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Desktop\ООП\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Desktop\ООП\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Desktop\ООП\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\IrA\Desktop\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Desktop\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Desktop\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Desktop\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Desktop\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\Мирослав\Desktop\Новая папка (4)\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Downloads\Telegram Desktop\lab3 (2)\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\IrA\Desktop\lab4\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Desktop\lab4\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Desktop\lab4\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Desktop\lab4\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\lab4\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Desktop\lab4\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.pdb
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\bin\Debug\net6.0\lab3.exe
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\bin\Debug\net6.0\lab3.deps.json
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\bin\Debug\net6.0\lab3.dll
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\bin\Debug\net6.0\lab3.pdb
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\Мирослав\Desktop\Новая папка (3)\lab4\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab4\bin\Debug\net6.0\lab3.exe
+C:\Users\IrA\Desktop\ООП\lab4\bin\Debug\net6.0\lab3.deps.json
+C:\Users\IrA\Desktop\ООП\lab4\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\IrA\Desktop\ООП\lab4\bin\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab4\bin\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.pdb
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\IrA\Desktop\ООП\lab4\obj\Debug\net6.0\ref\lab3.dll
